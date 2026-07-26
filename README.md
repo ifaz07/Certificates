@@ -6,13 +6,14 @@ This repository showcases my journey and accomplishments in learning data analys
 
 The following credentials are included in this repository:
 
+- **LeetCode: 50 Days Badge 2026** - For solving problems for 50+ days.
+- **LeetCode: SQL 50 Badge** - For solving Top Sql interview Questions
 - **DataCamp: Data Manipulation in Python** (16 HRS) - Completed Mar 29, 2026
 - **DataCamp: Data Manipulation with pandas** (4 HRS) - Completed Mar 29, 2026
 - **DataCamp: Introduction to NumPy** (4 HRS) - Completed Mar 29, 2026
 - **DataCamp: Cleaning Data in Python** (4 HRS) - Completed Apr 21, 2026
 - **DataCamp: Joining Data with pandas** (4 HRS) - Completed Mar 28, 2026
 - **DataCamp: Reshaping Data with pandas** (4 HRS) - Completed Mar 28, 2026
-- **LeetCode: 50 Days Badge 2026** - For solving problems for 50+ days.
 
 ## 🛠️ Skills Demonstrated
 
